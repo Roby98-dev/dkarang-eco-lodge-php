@@ -1076,6 +1076,11 @@ h3.title-w3-agileits {
     left: 2em;
     top: 29em;
 }
+
+.about-img-2 {
+	width: 500px;
+}
+
 .w3ls-info-about {
     position: absolute;
     left: 46%;

@@ -6,8 +6,8 @@
             <div class="col-md-3 price-grid">
                 <div class="price-block agile">
                     <div class="price-gd-top">
-                        <img src="images/r1.jpg" alt=" " class="img-responsive" />
-                        <h4>Deluxe Room</h4>
+                        <img src="imgs/2021-02-28 06.54.29 1.jpg" alt=" " class="img-responsive" />
+                        <h4>Guest House 1</h4>
                     </div>
                     <div class="price-gd-bottom">
                         <div class="price-list">
@@ -30,8 +30,8 @@
             <div class="col-md-3 price-grid ">
                 <div class="price-block agile">
                     <div class="price-gd-top">
-                        <img src="images/r2.jpg" alt=" " class="img-responsive" />
-                        <h4>Luxury Room</h4>
+                        <img src="imgs/2021-02-28 06.54.29 1.jpg" alt=" " class="img-responsive" />
+                        <h4>Guest House 2</h4>
                     </div>
                     <div class="price-gd-bottom">
                         <div class="price-list">
@@ -44,7 +44,7 @@
                             </ul>
                         </div>
                         <div class="price-selet">
-                            <h3><span>$</span>220</h3>
+                            <h3><span>$</span>29</h3>
                             <a href="admin/reservation.php">Book Now</a>
                         </div>
                     </div>
@@ -53,8 +53,8 @@
             <div class="col-md-3 price-grid lost">
                 <div class="price-block agile">
                     <div class="price-gd-top">
-                        <img src="images/r3.jpg" alt=" " class="img-responsive" />
-                        <h4>Guest House</h4>
+                        <img src="imgs/2021-02-28 06.54.29 1.jpg" alt=" " class="img-responsive" />
+                        <h4>Guest House 3</h4>
                     </div>
                     <div class="price-gd-bottom">
                         <div class="price-list">
@@ -67,7 +67,7 @@
                             </ul>
                         </div>
                         <div class="price-selet">
-                            <h3><span>$</span>180</h3>
+                            <h3><span>$</span> 29</h3>
                             <a href="admin/reservation.php">Book Now</a>
                         </div>
                     </div>
@@ -76,8 +76,8 @@
             <div class="col-md-3 price-grid wthree lost">
                 <div class="price-block agile">
                     <div class="price-gd-top ">
-                        <img src="images/r4.jpg" alt=" " class="img-responsive" />
-                        <h4>Single Room</h4>
+                        <img src="imgs/2021-02-28 06.54.29 1.jpg" alt=" " class="img-responsive" />
+                        <h4>Guest House 4</h4>
                     </div>
                     <div class="price-gd-bottom">
                         <div class="price-list">
@@ -90,7 +90,7 @@
                             </ul>
                         </div>
                         <div class="price-selet">
-                            <h3><span>$</span> 150</h3>
+                            <h3><span>$</span> 29</h3>
                             <a href="admin/reservation.php">Book Now</a>
                         </div>
                     </div>
